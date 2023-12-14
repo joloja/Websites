@@ -1,12 +1,11 @@
 # Joanna Loja
 
 #Project #1
-https://github.com/joloja/JoannaLoja)
-
+https://github.com/joloja/JoannaLoja
 Description: My personal website
 
 #Project #2
-http://eve.kean.edu/~myname/MyProject2.html
+[http://eve.kean.edu/~myname/MyProject2.html](https://github.com/joloja/BakeryWebsite)
 
 Description: A front-end prototype of an E-commerce website
 
