@@ -1,7 +1,7 @@
 # Joanna Loja
 
 #Project #1
-http://eve.kean.edu/~myname/MyProject1.html
+https://github.com/joloja/JoannaLoja)
 
 Description: My personal website
 
